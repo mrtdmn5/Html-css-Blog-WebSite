@@ -12,7 +12,7 @@
     {
       "id": 2,
       "categoryId": 1,
-      "productName": "Chang",
+      "productName": "Update Chang",
       "quantityPerUnit": "24 - 12 oz bottles",
       "unitPrice": "21",
       "unitsInStock": 17,
@@ -744,5 +744,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate":"2022.11.11.19.31.26"
+  "lastUpdate":"2022.11.14.19.31.26"
 }
