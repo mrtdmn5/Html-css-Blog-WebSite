@@ -3,7 +3,7 @@
     {
       "id": 1,
       "categoryId": 2,
-      "productName": "Chai",
+      "productName": "Chai update",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "24",
       "unitsInStock": 53,
@@ -744,5 +744,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate":"2022.11.14.19.31.26"
+  "lastUpdate":"2022.11.14.20.31.26"
 }
