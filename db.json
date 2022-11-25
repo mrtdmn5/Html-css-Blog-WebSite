@@ -23,7 +23,7 @@
             }
               
                         ],
-            "multiple_choices":false,
+            "multiple_choices":"false"
         },
         {
           "sauces": [
@@ -36,10 +36,10 @@
               "option_name": "SÅS SENAP & DILL",
               "price": 20,
               "direction": "plus"
-            },
+            }
               
           ],
-              "multiple choices":true,
+              "multiple choices":"true"
             
         }
       ]
@@ -779,5 +779,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate": "2022.12.14.20.31.26"
+  "lastUpdate": "2022.11.14.20.31.26"
 }
