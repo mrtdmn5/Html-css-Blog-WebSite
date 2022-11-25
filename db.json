@@ -7,7 +7,42 @@
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "24",
       "unitsInStock": 53,
-      "image": "https://tilesrus.se/wp-content/uploads/2021/12/klinker-tivoli-beige-30x60-1-1024x513-1.jpg"
+      "image": "https://tilesrus.se/wp-content/uploads/2021/12/klinker-tivoli-beige-30x60-1-1024x513-1.jpg",
+      "additional": [
+        {
+          "size": [
+            {
+              "option_name": "Medium",
+              "price": 15,
+              "direction": "plus"
+            },
+            {
+              "option_name": "Large",
+              "price": 20,
+              "direction": "new"
+            }
+              
+                        ],
+            "multiple_choices":false,
+        },
+        {
+          "sauces": [
+            {
+              "option_name": "GRÖNSAKSKAKA",
+              "price": 15,
+              "direction": "plus"
+            },
+            {
+              "option_name": "SÅS SENAP & DILL",
+              "price": 20,
+              "direction": "plus"
+            },
+              
+          ],
+              "multiple choices":true,
+            
+        }
+      ]
     },
     {
       "id": 2,
@@ -744,5 +779,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate":"2022.11.14.20.31.26"
+  "lastUpdate": "2022.12.14.20.31.26"
 }
