@@ -60,7 +60,25 @@
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "222",
       "unitsInStock": 53,
-      "image": "https://tilesrus.se/wp-content/uploads/2021/12/klinker-tivoli-beige-30x60-1-1024x513-1.jpg"
+      "image": "https://tilesrus.se/wp-content/uploads/2021/12/klinker-tivoli-beige-30x60-1-1024x513-1.jpg",
+      "additional": [
+        {
+          "size": [
+            {
+              "option_name": "small",
+              "price": 15,
+              "direction": "plus"
+            },
+            {
+              "option_name": "Large",
+              "price": 20,
+              "direction": "new"
+            }
+              
+                        ],
+            "multiple_choices":"true"
+        }
+      ]
     },
     {
       "id": 5,
@@ -779,5 +797,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate": "2022.13.14.20.31.26"
+  "lastUpdate": "2022.14.14.20.31.26"
 }
