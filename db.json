@@ -56,6 +56,11 @@
         {
           "size": [
             {
+              "option_name": "Small",
+              "price": 10,
+              "direction": "plus"
+            },
+            {
               "option_name": "Medium",
               "price": 15,
               "direction": "plus"
@@ -72,7 +77,7 @@
         {
           "sauces": [
             {
-              "option_name": "GRÖNSAKSKAKA",
+              "option_name": "Senap",
               "price": 15,
               "direction": "plus"
             },
@@ -82,7 +87,7 @@
               "direction": "plus"
             },
             {
-              "option_name": "GRÖNSAKSKAKA",
+              "option_name": "Marmelad ",
               "price": 15,
               "direction": "plus"
             },
@@ -97,7 +102,7 @@
               "direction": "plus"
             },
             {
-              "option_name": "SÅS SENAP & DILL",
+              "option_name": "SÅS Chilli  & DILL",
               "price": 20,
               "direction": "plus"
             }
@@ -852,5 +857,5 @@
       "image": "https://tilesrus.se/wp-content/uploads/2021/04/weber-neutral-silicone-310-mm.jpg"
     }
   ],
-  "lastUpdate": "2022.11.28.20.31.26"
+  "lastUpdate": "2022.12.01.20.31.26"
 }
