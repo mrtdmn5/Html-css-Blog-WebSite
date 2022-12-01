@@ -110,6 +110,43 @@
           ],
               "multiple_choices":"true"
             
+        },
+        {
+          "Menu": [
+            {
+              "option_name": "Senap",
+              "price": 15,
+              "direction": "plus"
+            },
+            {
+              "option_name": "KETCHUP",
+              "price": 15,
+              "direction": "new"
+            },
+            {
+              "option_name": "Marmelad ",
+              "price": 15,
+              "direction": "new"
+            },
+            {
+              "option_name": "GRÖNSAKSKAKA",
+              "price": 15,
+              "direction": "new"
+            },
+            {
+              "option_name": "GRÖNSAKSKAKA",
+              "price": 15,
+              "direction": "new"
+            },
+            {
+              "option_name": "SÅS Chilli  & DILL",
+              "price": 20,
+              "direction": "new"
+            }
+              
+          ],
+              "multiple_choices":"false"
+            
         }
       ]
     },
