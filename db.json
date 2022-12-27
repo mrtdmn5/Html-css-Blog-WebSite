@@ -895,5 +895,91 @@
       "image": "https://www.freepnglogos.com/uploads/food-png/food-plate-png-transparent-image-pngpix-2.png"
     }
   ],
+  "cartArr":[
+  {
+    "id": 11,
+    "productName": "Update Chang",
+    "unitPrice": 46,
+    "quantity": 1,
+    "hasAdditional": true
+  },
+  {
+    "id": 12,
+    "productName": "Chef Anton's Cajun Seasoning",
+    "unitPrice": 222,
+    "quantity": 1,
+    "hasAdditional": true
+  },
+  {
+    "id": 13,
+    "productName": "Sasquatch Ale",
+    "unitPrice": 14,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 14,
+    "productName": "Guaraná Fantástica",
+    "unitPrice": 4,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 15,
+    "productName": "Ipoh Coffee",
+    "unitPrice": 46,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 16,
+    "productName": "Ipoh Coffee",
+    "unitPrice": 46,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 17,
+    "productName": "Chartreuse verte",
+    "unitPrice": 18,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 18,
+    "productName": "Côte de Blaye",
+    "unitPrice": 263,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 19,
+    "productName": "Steeleye Stout",
+    "unitPrice": 18,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 20,
+    "productName": "Outback Lager",
+    "unitPrice": 15,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 21,
+    "productName": "Lakkaliköör",
+    "unitPrice": 18,
+    "quantity": 1,
+    "hasAdditional": false
+  },
+  {
+    "id": 22,
+    "productName": "Laughing Lumberjack Lager",
+    "unitPrice": 14,
+    "quantity": 1,
+    "hasAdditional": false
+  }
+],
   "lastUpdate": "2022.12.14.16.31.26"
 }
