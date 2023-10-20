@@ -3,319 +3,398 @@
         "category": "EL CYKEL",
         "issues": [
             {
-                "issue": "BYTE BAKDÄMPARE",
+              "value":1,  
+              "label": "BYTE BAKDÄMPARE",
                 "price": 113
             },
             {
-                "issue": "BYTE BAKHJUL",
+              "value":1,  
+              "label": "BYTE BAKHJUL",
                 "price": 135
             },
             {
-                "issue": "BYTE BAKHJULSMOTOR",
+              "value":1,  
+              "label": "BYTE BAKHJULSMOTOR",
                 "price": 188
             },
             {
-                "issue": "BYTE BAKSKÄRM",
+              "value":1,  
+              "label": "BYTE BAKSKÄRM",
                 "price": 150
             },
             {
-                "issue": "BYTE BAKVÄXEL  INKL. VXL JUSTERING",
+              "value":1,  
+              "label": "BYTE BAKVÄXEL  INKL. VXL JUSTERING",
                 "price": 150
             },
             {
-                "issue": "BYTE BATTERI,",
+              "value":1,  
+              "label": "BYTE BATTERI,",
                 "price": 38
             },
             {
-                "issue": "BYTE BATTERIBELYSNING,",
+              "value":1,  
+              "label": "BYTE BATTERIBELYSNING,",
                 "price": 75
             },
             {
-                "issue": "BYTE BATTERIHÅLLARE, PAKETHÅLLARE",
+              "value":1,  
+              "label": "BYTE BATTERIHÅLLARE, PAKETHÅLLARE",
                 "price": 150
             },
             {
-                "issue": "BYTE BATTERIHÅLLARE, RAM",
+              "value":1,  
+              "label": "BYTE BATTERIHÅLLARE, RAM",
                 "price": 225
             },
             {
-                "issue": "BYTE BELYSNINGSKABEL",
+              "value":1,  
+              "label": "BYTE BELYSNINGSKABEL",
                 "price": 113
             },
             {
-                "issue": "BYTE BROMS SENSOR",
+              "value":1,  
+              "label": "BYTE BROMS SENSOR",
                 "price": 113
             },
             {
-                "issue": "BYTE BROMSHANDTAG",
+              "value":1,  
+              "label": "BYTE BROMSHANDTAG",
                 "price": 113
             },
             {
-                "issue": "BYTE BROMSKLOSSAR",
+              "value":1,  
+              "label": "BYTE BROMSKLOSSAR",
                 "price": 113
             },
             {
-                "issue": "BYTE CENTERMOTOR",
+              "value":1,  
+              "label": "BYTE CENTERMOTOR",
                 "price": 225
             },
             {
-                "issue": "BYTE DÄCK-SLANG",
+              "value":1,  
+              "label": "BYTE DÄCK-SLANG",
                 "price": 150
             },
             {
-                "issue": "BYTE DÄMPAD GAFFEL",
+              "value":1,  
+              "label": "BYTE DÄMPAD GAFFEL",
                 "price": 225
             },
             {
-                "issue": "BYTE DISPLAY",
+              "value":1,  
+              "label": "BYTE DISPLAY",
                 "price": 113
             },
             {
-                "issue": "BYTE EB-BUS KABEL FRAMHJULSMOTOR",
+              "value":1,  
+              "label": "BYTE EB-BUS KABEL FRAMHJULSMOTOR",
                 "price": 187
             },
             {
-                "issue": "BYTE FÄLG",
+              "value":1,  
+              "label": "BYTE FÄLG",
                 "price": 338
             },
             {
-                "issue": "BYTE FÄLGBROMS",
+              "value":1,  
+              "label": "BYTE FÄLGBROMS",
                 "price": 113
             },
             {
-                "issue": "BYTE FAST KEDJESKYDD",
+              "value":1,  
+              "label": "BYTE FAST KEDJESKYDD",
                 "price": 113
             },
             {
-                "issue": "BYTE FAST KEDJESKYDD+FÄSTE VEVPARTI",
+              "value":1,  
+              "label": "BYTE FAST KEDJESKYDD+FÄSTE VEVPARTI",
                 "price": 188
             },
             {
-                "issue": "BYTE FASTMONTERAD BELYSNING BAK,",
+              "value":1,  
+              "label": "BYTE FASTMONTERAD BELYSNING BAK,",
                 "price": 75
             },
             {
-                "issue": "BYTE FASTMONTERAD BELYSNING FRAM",
+              "value":1,  
+              "label": "BYTE FASTMONTERAD BELYSNING FRAM",
                 "price": 113
             },
             {
-                "issue": "BYTE FASTMONTERAD LÅS,",
+              "value":1,  
+              "label": "BYTE FASTMONTERAD LÅS,",
                 "price": 75
             },
             {
-                "issue": "BYTE FRAMHJUL",
+              "value":1,  
+              "label": "BYTE FRAMHJUL",
                 "price": 113
             },
             {
-                "issue": "BYTE FRAMSKÄRM",
+              "value":1,  
+              "label": "BYTE FRAMSKÄRM",
                 "price": 150
             },
             {
-                "issue": "BYTE FRAMVÄXEL INKL. VXL JUSTERING",
+              "value":1,  
+              "label": "BYTE FRAMVÄXEL INKL. VXL JUSTERING",
                 "price": 150
             },
             {
-                "issue": "BYTEprice",
+              "value":1,  
+              "label": "BYTEprice",
                 "price": 150
             },
             {
-                "issue": "BYTE HANDTAG,",
+              "value":1,  
+              "label": "BYTE HANDTAG,",
                 "price": 75
             },
             {
-                "issue": "BYTE HASTIGHETS SENSOR",
+              "value":1,  
+              "label": "BYTE HASTIGHETS SENSOR",
                 "price": 113
             },
             {
-                "issue": "BYTE KASSETT issue:11 DELAD",
+              "value":1,  
+              "label": "BYTE KASSETT issue:11 DELAD",
                 "price": 150
             },
             {
-                "issue": "BYTE KEDJA",
+              "value":1,  
+              "label": "BYTE KEDJA",
                 "price": 113
             },
             {
-                "issue": ",BYTEprice:3,7,8 VXL",
+              "value":1,  
+              "label": ",BYTEprice:3,7,8 VXL",
                 "price": 188
             },
             {
-                "issue": "BYTE KONTROLLBOX CENTERMOTOR",
+              "value":1,  
+              "label": "BYTE KONTROLLBOX CENTERMOTOR",
                 "price": 150
             },
             {
-                "issue": "BYTE KONTROLLBOX PAKETHÅLLARE",
+              "value":1,  
+              "label": "BYTE KONTROLLBOX PAKETHÅLLARE",
                 "price": 150
             },
             {
-                "issue": "BYTE KONTROLLBOX RAMMONTERAD",
+              "value":1,  
+              "label": "BYTE KONTROLLBOX RAMMONTERAD",
                 "price": 150
             },
             {
-                "issue": "BYTE KOPPLINGSLAGER",
+              "value":1,  
+              "label": "BYTE KOPPLINGSLAGER",
                 "price": 188
             },
             {
-                "issue": "BYTE KORG",
+              "value":1,  
+              "label": "BYTE KORG",
                 "price": 113
             },
             {
-                "issue": "BYTE KORGSTAG-FÄSTE,",
+              "value":1,  
+              "label": "BYTE KORGSTAG-FÄSTE,",
                 "price": 75
             },
             {
-                "issue": "BYTE LAS OCH LASKOLV  2 IN 1",
+              "value":1,  
+              "label": "BYTE LAS OCH LASKOLV  2 IN 1",
                 "price": 150
             },
             {
-                "issue": "BYTE LASKOLV",
+              "value":1,  
+              "label": "BYTE LASKOLV",
                 "price": 113
             },
             {
-                "issue": "BYTE LAGER",
+              "value":1,  
+              "label": "BYTE LAGER",
                 "price": 225
             },
             {
-                "issue": "BYTE LÖS VEVARM,",
+              "value":1,  
+              "label": "BYTE LÖS VEVARM,",
                 "price": 75
             },
             {
-                "issue": "BYTE MOTOR FRAMHJUL",
+              "value":1,  
+              "label": "BYTE MOTOR FRAMHJUL",
                 "price": 188
             },
             {
-                "issue": "BYTE MOTORKABEL BAKHJULSMOTOR",
+              "value":1,  
+              "label": "BYTE MOTORKABEL BAKHJULSMOTOR",
                 "price": 150
             },
             {
-                "issue": "BYTE MOTORKABEL CENTERMOTOR",
+              "value":1,  
+              "label": "BYTE MOTORKABEL CENTERMOTOR",
                 "price": 150
             },
             {
-                "issue": "BYTE MOTORKABEL FRAMHJULSMOTOR",
+              "value":1,  
+              "label": "BYTE MOTORKABEL FRAMHJULSMOTOR",
                 "price": 150
             },
             {
-                "issue": "BYTE NAV",
+              "value":1,  
+              "label": "BYTE NAV",
                 "price": 450
             },
             {
-                "issue": "BYTE PAKETHÅLLARE",
+              "value":1,  
+              "label": "BYTE PAKETHÅLLARE",
                 "price": 113
             },
             {
-                "issue": "BYTE PAKETHALLARSTAG,",
+              "value":1,  
+              "label": "BYTE PAKETHALLARSTAG,",
                 "price": 75
             },
             {
-                "issue": "BYTE RAM",
+              "value":1,  
+              "label": "BYTE RAM",
                 "price": 900
             },
             {
-                "issue": "BYTE RAMDEL  heldämpad,",
+              "value":1,  
+              "label": "BYTE RAMDEL  heldämpad,",
                 "price": 0
             },
             {
-                "issue": "BYTE REFLEXER OCH RINGKLOCKOR,",
+              "value":1,  
+              "label": "BYTE REFLEXER OCH RINGKLOCKOR,",
                 "price": 75
             },
             {
-                "issue": "BYTE RULLBROMS,",
+              "value":1,  
+              "label": "BYTE RULLBROMS,",
                 "price": 75
             },
             {
-                "issue": "BYTE SADEL,",
+              "value":1,  
+              "label": "BYTE SADEL,",
                 "price": 75
             },
             {
-                "issue": "BYTE SADELKLÄMMA,",
+              "value":1,  
+              "label": "BYTE SADELKLÄMMA,",
                 "price": 38
             },
             {
-                "issue": "BYTE SADELSTOLPE",
+              "value":1,  
+              "label": "BYTE SADELSTOLPE",
                 "price": 113
             },
             {
-                "issue": "BYTE SKÄRMSTAG",
+              "value":1,  
+              "label": "BYTE SKÄRMSTAG",
                 "price": 113
             },
             {
-                "issue": "BYTE SKIVBROMS HYDRALISK",
+              "value":1,  
+              "label": "BYTE SKIVBROMS HYDRALISK",
                 "price": 188
             },
             {
-                "issue": "BYTE SKIVBROMS MEKANISK",
+              "value":1,  
+              "label": "BYTE SKIVBROMS MEKANISK",
                 "price": 150
             },
             {
-                "issue": "BYTE STEL GAFFEL",
+              "value":1,  
+              "label": "BYTE STEL GAFFEL",
                 "price": 225
             },
             {
-                "issue": "BYTE STYRE  INKL. MONT. REGL. & HANDTAG",
+              "value":1,  
+              "label": "BYTE STYRE  INKL. MONT. REGL. & HANDTAG",
                 "price": 188
             },
             {
-                "issue": "BYTE STYRLAGER KOMPLETT",
+              "value":1,  
+              "label": "BYTE STYRLAGER KOMPLETT",
                 "price": 113
             },
             {
-                "issue": "BYTE STYRLAGERDEL,",
+              "value":1,  
+              "label": "BYTE STYRLAGERDEL,",
                 "price": 75
             },
             {
-                "issue": "BYTE STYRSTAM",
+              "value":1,  
+              "label": "BYTE STYRSTAM",
                 "price": 113
             },
             {
-                "issue": "BYTE STÖD,",
+              "value":1,  
+              "label": "BYTE STÖD,",
                 "price": 75
             },
             {
-                "issue": "BYTE VÄXELREGLAGE",
+              "value":1,  
+              "label": "BYTE VÄXELREGLAGE",
                 "price": 150
             },
             {
-                "issue": "BYTE VÄXELVAJER",
+              "value":1,  
+              "label": "BYTE VÄXELVAJER",
                 "price": 113
             },
             {
-                "issue": "BYTE VÄXELÖRA",
+              "value":1,  
+              "label": "BYTE VÄXELÖRA",
                 "price": 150
             },
             {
-                "issue": "BYTE VEVLAGER",
+              "value":1,  
+              "label": "BYTE VEVLAGER",
                 "price": 263
             },
             {
-                "issue": "BYTE VEVLAGERSENSOR",
+              "value":1,  
+              "label": "BYTE VEVLAGERSENSOR",
                 "price": 225
             },
             {
-                "issue": "BYTE VEVPARTI",
+              "value":1,  
+              "label": "BYTE VEVPARTI",
                 "price": 150
             },
             {
-                "issue": "FELSÖKNING",
+              "value":1,  
+              "label": "FELSÖKNING",
                 "price": 113
             },
             {
-                "issue": "LUFTA SKIVBROMS HYDRALISK",
+              "value":1,  
+              "label": "LUFTA SKIVBROMS HYDRALISK",
                 "price": 113
             },
             {
-                "issue": "RIKTA HJUL-BYTE EKER,",
+              "value":1,  
+              "label": "RIKTA HJUL-BYTE EKER,",
                 "price": 75
             },
             {
-                "issue": "BYTE FRIHJULSBODY",
+              "value":1,  
+              "label": "BYTE FRIHJULSBODY",
                 "price": 225
             },
             {
-                "issue": "FELSÖKNING MJUKVARA CRESCENT 2020-2021",
+              "value":1,  
+              "label": "FELSÖKNING MJUKVARA CRESCENT 2020-2021",
                 "price": 225
             },
             {
-                "issue": "LASA-LASA UPP BATTERI FÖRBÄTTRAD LADDNINGSFUNKTION INGEN ERSÄTTNING KNYTT-BYTE FRAMGAFFEL,",
+              "value":1,  
+              "label": "LASA-LASA UPP BATTERI FÖRBÄTTRAD LADDNINGSFUNKTION INGEN ERSÄTTNING KNYTT-BYTE FRAMGAFFEL,",
                 "price": 75
             }
         ]
@@ -324,235 +403,293 @@
         "category": "MTB SPORT LVG",
         "issues": [
             {
-              "issue": "BYTE BAKDÄMPARE",
+              "value":1,
+              "label": "BYTE BAKDÄMPARE",
               "price": 113
             },
             {
-              "issue": "BYTE BAKHJUL",
+              "value":1,
+              "label": "BYTE BAKHJUL",
               "price": 113
             },
             {
-              "issue": "BYTE BAKSKÄRM",
+              "value":1,
+              "label": "BYTE BAKSKÄRM",
               "price": 150
             },
             {
-              "issue": "BYTE BAKVÄXEL (INKL. VXL JUSTERING)",
+              "value":1,
+              "label": "BYTE BAKVÄXEL (INKL. VXL JUSTERING)",
               "price": 150
             },
             {
-              "issue": "BYTE BATTERIBELYSNING",
+              "value":1,
+              "label": "BYTE BATTERIBELYSNING",
               "price": 75
             },
             {
-              "issue": "BYTE BELYSNINGSKABEL",
+              "value":1,
+              "label": "BYTE BELYSNINGSKABEL",
               "price": 0
             },
             {
-              "issue": "BYTE BROMSHANDTAG",
+              "value":1,
+              "label": "BYTE BROMSHANDTAG",
               "price": 113
             },
             {
-              "issue": "BYTE BROMSKLOSSAR",
+              "value":1,
+              "label": "BYTE BROMSKLOSSAR",
               "price": 113
             },
             {
-              "issue": "BYTE BROMSSKIVA",
+              "value":1,
+              "label": "BYTE BROMSSKIVA",
               "price": 113
             },
             {
-              "issue": "BYTE DÄCK/SLANG",
+              "value":1,
+              "label": "BYTE DÄCK/SLANG",
               "price": 135
             },
             {
-              "issue": "BYTE BROMSSKIVA",
+              "value":1,
+              "label": "BYTE BROMSSKIVA",
               "price": 188
             },
             {
-              "issue": "BYTE DÄMPAD GAFFEL",
+              "value":1,
+              "label": "BYTE DÄMPAD GAFFEL",
               "price": 188
             },
             {
-              "issue": "BYTE FÄLG",
+              "value":1,
+              "label": "BYTE FÄLG",
               "price": 338
             },
             {
-              "issue": "BYTE FÄLGBROMS",
+              "value":1,
+              "label": "BYTE FÄLGBROMS",
               "price": 113
             },
             {
-              "issue": "BYTE FAST KEDJESKYDD",
+              "value":1,
+              "label": "BYTE FAST KEDJESKYDD",
               "price": 113
             },
             {
-              "issue": "BYTE FAST KEDJESKYDD+FÄSTE (VEVPAR TI)",
+              "value":1,
+              "label": "BYTE FAST KEDJESKYDD+FÄSTE (VEVPAR TI)",
               "price": 0
             },
             {
-              "issue": "BYTE FASTMONTERAD BELYSNING BAK",
+              "value":1,
+              "label": "BYTE FASTMONTERAD BELYSNING BAK",
               "price": 75
             },
             {
-              "issue": "BYTE FASTMONTERAD BELYSNING FRAM",
+              "value":1,
+              "label": "BYTE FASTMONTERAD BELYSNING FRAM",
               "price": 75
             },
             {
-              "issue": "BYTE FASTMONTERAD LÅS",
+              "value":1,
+              "label": "BYTE FASTMONTERAD LÅS",
               "price": 75
             },
             {
-              "issue": "BYTE FRAMHJUL",
+              "value":1,
+              "label": "BYTE FRAMHJUL",
               "price": 38
             },
             {
-              "issue": "BYTE FRAMSKÄRM",
+              "value":1,
+              "label": "BYTE FRAMSKÄRM",
               "price": 150
             },
             {
-              "issue": "BYTE FRAMVÄXEL (INKL. VXL JUSTERIN )",
+              "value":1,
+              "label": "BYTE FRAMVÄXEL (INKL. VXL JUSTERIN )",
               "price": 150
             },
             {
-              "issue": "BYTE FRIHJULSBODY",
+              "value":1,
+              "label": "BYTE FRIHJULSBODY",
               "price": 225
             },
             {
-              "issue": "BYTE FRIKRANS",
+              "value":1,
+              "label": "BYTE FRIKRANS",
               "price": 150
             },
             {
-              "issue": "BYTE HANDTAG",
+              "value":1,
+              "label": "BYTE HANDTAG",
               "price": 75
             },
             {
-              "issue": "BYTE KASSETT 7-11 DELAD",
+              "value":1,
+              "label": "BYTE KASSETT 7-11 DELAD",
               "price": 150
             },
             {
-              "issue": "BYTE KEDJA",
+              "value":1,
+              "label": "BYTE KEDJA",
               "price": 113
             },
             {
-              "issue": "BYTE KEDJEKRANS 0,3,7,8 VXL",
+              "value":1,
+              "label": "BYTE KEDJEKRANS 0,3,7,8 VXL",
               "price": 188
             },
             {
-              "issue": "BYTE KORG",
+              "value":1,
+              "label": "BYTE KORG",
               "price": 0
             },
             {
-              "issue": "BYTE KORGSTAG/FÄSTE",
+              "value":1,
+              "label": "BYTE KORGSTAG/FÄSTE",
               "price": 0
             },
             {
-              "issue": "BYTE LAGER",
+              "value":1,
+              "label": "BYTE LAGER",
               "price": 225
             },
             {
-              "issue": "BYTE LÖS VEVARM",
+              "value":1,
+              "label": "BYTE LÖS VEVARM",
               "price": 75
             },
             {
-              "issue": "BYTE NAV",
+              "value":1,
+              "label": "BYTE NAV",
               "price": 450
             },
             {
-              "issue": "BYTE PAKETHÅLLARE",
+              "value":1,
+              "label": "BYTE PAKETHÅLLARE",
               "price": 113
             },
             {
-              "issue": "BYTE PAKETHALLARSTAG",
+              "value":1,
+              "label": "BYTE PAKETHALLARSTAG",
               "price": 75
             },
             {
-              "issue": "BYTE RAM",
+              "value":1,
+              "label": "BYTE RAM",
               "price": 900
             },
             {
-              "issue": "BYTE RAMDEL (heldämpad)",
+              "value":1,
+              "label": "BYTE RAMDEL (heldämpad)",
               "price": 675
             },
             {
-              "issue": "BYTE REFLEXER OCH RINGKLOCKOR",
+              "value":1,
+              "label": "BYTE REFLEXER OCH RINGKLOCKOR",
               "price": 75
             },
             {
-              "issue": "BYTE RULLBROMS",
+              "value":1,
+              "label": "BYTE RULLBROMS",
               "price": 75
             },
             {
-              "issue": "BYTE SADEL",
+              "value":1,
+              "label": "BYTE SADEL",
               "price": 75
             },
             {
-              "issue": "BYTE SADELKLÄMMA",
+              "value":1,
+              "label": "BYTE SADELKLÄMMA",
               "price": 38
             },
             {
-              "issue": "BYTE SADELSTOLPE",
+              "value":1,
+              "label": "BYTE SADELSTOLPE",
               "price": 113
             },
             {
-              "issue": "BYTE SKÄRMSTAG",
+              "value":1,
+              "label": "BYTE SKÄRMSTAG",
               "price": 113
             },
             {
-              "issue": "BYTE SKIVBROMS HYDRALISK",
+              "value":1,
+              "label": "BYTE SKIVBROMS HYDRALISK",
               "price": 188
             },
             {
-              "issue": "BYTE SKIVBROMS MEKANISK",
+              "value":1,
+              "label": "BYTE SKIVBROMS MEKANISK",
               "price": 150
             },
             {
-              "issue": "BYTE STEL GAFFEL",
+              "value":1,
+              "label": "BYTE STEL GAFFEL",
               "price": 188
             },
             {
-              "issue": "BYTE STYRE (INKL. MONT. REGL. & HA)",
+              "value":1,
+              "label": "BYTE STYRE (INKL. MONT. REGL. & HA)",
               "price": 188
             },
             {
-              "issue": "BYTE STYRLAGER KOMPLETT",
+              "value":1,
+              "label": "BYTE STYRLAGER KOMPLETT",
               "price": 113
             },
             {
-              "issue": "BYTE STYRLAGERDEL",
+              "value":1,
+              "label": "BYTE STYRLAGERDEL",
               "price": 75
             },
             {
-              "issue": "BYTE STYRSTAM",
+              "value":1,
+              "label": "BYTE STYRSTAM",
               "price": 113
             },
             {
-              "issue": "BYTE STÖD",
+              "value":1,
+              "label": "BYTE STÖD",
               "price": 75
             },
             {
-              "issue": "BYTE VÄXELREGLAGE",
+              "value":1,
+              "label": "BYTE VÄXELREGLAGE",
               "price": 150
             },
             {
-              "issue": "BYTE VÄXELVAJER",
+              "value":1,
+              "label": "BYTE VÄXELVAJER",
               "price": 113
             },
             {
-              "issue": "BYTE VÄXELÖRA",
+              "value":1,
+              "label": "BYTE VÄXELÖRA",
               "price": 150
             },
             {
-              "issue": "BYTE VEVLAGER",
+              "value":1,
+              "label": "BYTE VEVLAGER",
               "price": 262
             },
             {
-              "issue": "BYTE VEVPARTI",
+              "value":1,
+              "label": "BYTE VEVPARTI",
               "price": 150
             },
             {
-              "issue": "LUFTA SKIVBROMS HYDRALISK",
+              "value":1,
+              "label": "LUFTA SKIVBROMS HYDRALISK",
               "price": 113
             },
             {
-              "issue": "RIKTA HJUL/BYTE EKER",
+              "value":1,
+              "label": "RIKTA HJUL/BYTE EKER",
               "price": 75
             }
           ]          
@@ -561,231 +698,288 @@
         "category": "CITY CLASSIC",
         "issues": [
             {
-              "issue": "BYTE AV KONTROLLBOX UTBYTESBOX/CANBUS",
+              "value":1,
+              "label": "BYTE AV KONTROLLBOX UTBYTESBOX/CANBUS",
               "price": 300
             },
             {
-              "issue": "BYTE INSATS BAKHJUL, NAVDYNAMO",
+              "value":1,
+              "label": "BYTE INSATS BAKHJUL, NAVDYNAMO",
               "price": 190
             },
             {
-              "issue": "BYTE PEDALER",
+              "value":1,
+              "label": "BYTE PEDALER",
               "price": 38
             },
             {
-              "issue": "BYTE BAKHJUL",
+              "value":1,
+              "label": "BYTE BAKHJUL",
               "price": 135
             },
             {
-              "issue": "BYTE BAKSKÄRM",
+              "value":1,
+              "label": "BYTE BAKSKÄRM",
               "price": 150
             },
             {
-              "issue": "BYTE BAKVÄXEL (INKL. VXL JUSTERING)",
+              "value":1,
+              "label": "BYTE BAKVÄXEL (INKL. VXL JUSTERING)",
               "price": 150
             },
             {
-              "issue": "BYTE BELYSNINGSKABEL",
+              "value":1,
+              "label": "BYTE BELYSNINGSKABEL",
               "price": 75
             },
             {
-              "issue": "BYTE BROMSHANDTAG",
+              "value":1,
+              "label": "BYTE BROMSHANDTAG",
               "price": 113
             },
             {
-              "issue": "BYTE BROMSKLOSSAR",
+              "value":1,
+              "label": "BYTE BROMSKLOSSAR",
               "price": 113
             },
             {
-              "issue": "BYTE DÄCK/SLANG",
+              "value":1,
+              "label": "BYTE DÄCK/SLANG",
               "price": 150
             },
             {
-              "issue": "BYTE DÄMPAD GAFFEL",
+              "value":1,
+              "label": "BYTE DÄMPAD GAFFEL",
               "price": 225
             },
             {
-              "issue": "BYTE FÄLG",
+              "value":1,
+              "label": "BYTE FÄLG",
               "price": 338
             },
             {
-              "issue": "BYTE FÄLGBROMS",
+              "value":1,
+              "label": "BYTE FÄLGBROMS",
               "price": 113
             },
             {
-              "issue": "BYTE FAST KEDJESKYDD",
+              "value":1,
+              "label": "BYTE FAST KEDJESKYDD",
               "price": 113
             },
             {
-              "issue": "BYTE FAST KEDJESKYDD+FÄSTE (VEVPARTi)",
+              "value":1,
+              "label": "BYTE FAST KEDJESKYDD+FÄSTE (VEVPARTi)",
               "price": 188
             },
             {
-              "issue": "BYTE FASTMONTERAD BELYSNING BAK",
+              "value":1,
+              "label": "BYTE FASTMONTERAD BELYSNING BAK",
               "price": 75
             },
             {
-              "issue": "BYTE FASTMONTERAD BELYSNING FRAM",
+              "value":1,
+              "label": "BYTE FASTMONTERAD BELYSNING FRAM",
               "price": 75
             },
             {
-              "issue": "BYTE FASTMONTERAD LÅS",
+              "value":1,
+              "label": "BYTE FASTMONTERAD LÅS",
               "price": 75
             },
             {
-              "issue": "BYTE FRAMHJUL",
+              "value":1,
+              "label": "BYTE FRAMHJUL",
               "price": 75
             },
             {
-              "issue": "BYTE FRAMSKÄRM",
+              "value":1,
+              "label": "BYTE FRAMSKÄRM",
               "price": 150
             },
             {
-              "issue": "BYTE FRAMVÄXEL (INKL. VXL JUSTERING )",
+              "value":1,
+              "label": "BYTE FRAMVÄXEL (INKL. VXL JUSTERING )",
               "price": 150
             },
             {
-              "issue": "BYTE FRIKRANS",
+              "value":1,
+              "label": "BYTE FRIKRANS",
               "price": 150
             },
             {
-              "issue": "BYTE HANDTAG",
+              "value":1,
+              "label": "BYTE HANDTAG",
               "price": 75
             },
             {
-              "issue": "BYTE KASSETT 7-11 DELAD CITY",
+              "value":1,
+              "label": "BYTE KASSETT 7-11 DELAD CITY",
               "price": 150
             },
             {
-              "issue": "BYTE KEDJA",
+              "value":1,
+              "label": "BYTE KEDJA",
               "price": 113
             },
             {
-              "issue": "BYTE KEDJEKRANS 0,3,7,8 VXL",
+              "value":1,
+              "label": "BYTE KEDJEKRANS 0,3,7,8 VXL",
               "price": 188
             },
             {
-              "issue": "BYTE KORG",
+              "value":1,
+              "label": "BYTE KORG",
               "price": 113
             },
             {
-              "issue": "BYTE KORGSTAG/FÄSTE",
+              "value":1,
+              "label": "BYTE KORGSTAG/FÄSTE",
               "price": 75
             },
             {
-              "issue": "BYTE LAGER",
+              "value":1,
+              "label": "BYTE LAGER",
               "price": 225
             },
             {
-              "issue": "BYTE LÖS VEVARM",
+              "value":1,
+              "label": "BYTE LÖS VEVARM",
               "price": 75
             },
             {
-              "issue": "BYTE NAV",
+              "value":1,
+              "label": "BYTE NAV",
               "price": 445
             },
             {
-              "issue": "BYTE PAKETHÅLLARE",
+              "value":1,
+              "label": "BYTE PAKETHÅLLARE",
               "price": 113
             },
             {
-              "issue": "BYTE PAKETHÄLLARSTAG",
+              "value":1,
+              "label": "BYTE PAKETHÄLLARSTAG",
               "price": 75
             },
             {
-              "issue": "BYTE RAM",
+              "value":1,
+              "label": "BYTE RAM",
               "price": 900
             },
             {
-              "issue": "BYTE RAMDEL (heldämpad)",
+              "value":1,
+              "label": "BYTE RAMDEL (heldämpad)",
               "price": 0
             },
             {
-              "issue": "BYTE REFLEXER OCH RINGKLOCKOR",
+              "value":1,
+              "label": "BYTE REFLEXER OCH RINGKLOCKOR",
               "price": 75
             },
             {
-              "issue": "BYTE RINGLÅS",
+              "value":1,
+              "label": "BYTE RINGLÅS",
               "price": 75
             },
             {
-              "issue": "BYTE RULLBROMS",
+              "value":1,
+              "label": "BYTE RULLBROMS",
               "price": 75
             },
             {
-              "issue": "BYTE SADEL",
+              "value":1,
+              "label": "BYTE SADEL",
               "price": 75
             },
             {
-              "issue": "BYTE SADELKLÄMMA",
+              "value":1,
+              "label": "BYTE SADELKLÄMMA",
               "price": 38
             },
             {
-              "issue": "BYTE SADELSTOLPE",
+              "value":1,
+              "label": "BYTE SADELSTOLPE",
               "price": 113
             },
             {
-              "issue": "BYTE SKÄRMSTAG",
+              "value":1,
+              "label": "BYTE SKÄRMSTAG",
               "price": 113
             },
             {
-              "issue": "BYTE SKIVBROMS HYDRALISK",
+              "value":1,
+              "label": "BYTE SKIVBROMS HYDRALISK",
               "price": 188
             },
             {
-              "issue": "BYTE SKIVBROMS MEKANISK",
+              "value":1,
+              "label": "BYTE SKIVBROMS MEKANISK",
               "price": 150
             },
             {
-              "issue": "BYTE STEL GAFFEL",
+              "value":1,
+              "label": "BYTE STEL GAFFEL",
               "price": 225
             },
             {
-              "issue": "BYTE STYRE (INKL. MONT. REGL. & HAN)",
+              "value":1,
+              "label": "BYTE STYRE (INKL. MONT. REGL. & HAN)",
               "price": 188
             },
             {
-              "issue": "BYTE STYRLAGER KOMPLETT",
+              "value":1,
+              "label": "BYTE STYRLAGER KOMPLETT",
               "price": 113
             },
             {
-              "issue": "BYTE STYRLAGERDEL",
+              "value":1,
+              "label": "BYTE STYRLAGERDEL",
               "price": 75
             },
             {
-              "issue": "BYTE STYRSTAM",
+              "value":1,
+              "label": "BYTE STYRSTAM",
               "price": 113
             },
             {
-              "issue": "BYTE STÖD",
+              "value":1,
+              "label": "BYTE STÖD",
               "price": 75
             },
             {
-              "issue": "BYTE VÄXELREGLAGE",
+              "value":1,
+              "label": "BYTE VÄXELREGLAGE",
               "price": 150
             },
             {
-              "issue": "BYTE VÄXELVAJER",
+              "value":1,
+              "label": "BYTE VÄXELVAJER",
               "price": 113
             },
             {
-              "issue": "BYTE VÄXELÖRA",
+              "value":1,
+              "label": "BYTE VÄXELÖRA",
               "price": 150
             },
             {
-              "issue": "BYTE VEVLAGER",
+              "value":1,
+              "label": "BYTE VEVLAGER",
               "price": 263
             },
             {
-              "issue": "BYTE VEVPARTI",
+              "value":1,
+              "label": "BYTE VEVPARTI",
               "price": 150
             },
             {
-              "issue": "LUFTA SKIVBROMS HYDRALISK",
+              "value":1,
+              "label": "LUFTA SKIVBROMS HYDRALISK",
               "price": 113
             },
             {
-              "issue": "RIKTA HJUL/BYTE EKER",
+              "value":1,
+              "label": "RIKTA HJUL/BYTE EKER",
               "price": 75
             }
           ]
