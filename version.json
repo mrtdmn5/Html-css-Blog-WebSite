@@ -1,6 +1,10 @@
 [
   {
     "category": "EL CYKEL",
+    "currency":{
+      "label":"kr",
+      "value":"SEK"
+    },
     "issues": [
       {
         "value": 0,
@@ -401,6 +405,10 @@
   },
   {
     "category": "MTB SPORT LVG",
+    "currency":{
+      "label":"kr",
+      "value":"DKK"
+    },
     "issues": [
       {
         "value": 79,
@@ -696,6 +704,10 @@
   },
   {
     "category": "CITY CLASSIC",
+    "currency":{
+      "label":"kr",
+      "value":"SEK"
+    },
     "issues": [
       {
         "value": 137,
