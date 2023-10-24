@@ -1,410 +1,410 @@
 [
-    {
-        "subscription_info": {
-            "test": "test"
+  {
+    "subscription_info": {
+      "test": "test"
+    },
+    "bike": {
+      "value": 1313131,
+      "label": "My Bike Name",
+      "category": "EL CYKEL",
+      "issues": [
+        {
+          "value": 1450,
+          "label": "BYTE BAKDÄMPARE",
+          "price": 113
         },
-        "bike": {
-            "value": 01313131,
-            "label": "My Bike Name",
-            "category": "EL CYKEL",
-            "issues": [
-                {
-                    "value": 0,
-                    "label": "BYTE BAKDÄMPARE",
-                    "price": 113
-                },
-                {
-                    "value": 1,
-                    "label": "BYTE BAKHJUL",
-                    "price": 135
-                },
-                {
-                    "value": 2,
-                    "label": "BYTE BAKHJULSMOTOR",
-                    "price": 188
-                },
-                {
-                    "value": 3,
-                    "label": "BYTE BAKSKÄRM",
-                    "price": 150
-                },
-                {
-                    "value": 4,
-                    "label": "BYTE BAKVÄXEL  INKL. VXL JUSTERING",
-                    "price": 150
-                },
-                {
-                    "value": 5,
-                    "label": "BYTE BATTERI",
-                    "price": 38
-                },
-                {
-                    "value": 6,
-                    "label": "BYTE BATTERIBELYSNING",
-                    "price": 75
-                },
-                {
-                    "value": 7,
-                    "label": "BYTE BATTERIHÅLLARE, PAKETHÅLLARE",
-                    "price": 150
-                },
-                {
-                    "value": 8,
-                    "label": "BYTE BATTERIHÅLLARE, RAM",
-                    "price": 225
-                },
-                {
-                    "value": 9,
-                    "label": "BYTE BELYSNINGSKABEL",
-                    "price": 113
-                },
-                {
-                    "value": 10,
-                    "label": "BYTE BROMS SENSOR",
-                    "price": 113
-                },
-                {
-                    "value": 11,
-                    "label": "BYTE BROMSHANDTAG",
-                    "price": 113
-                },
-                {
-                    "value": 12,
-                    "label": "BYTE BROMSKLOSSAR",
-                    "price": 113
-                },
-                {
-                    "value": 13,
-                    "label": "BYTE CENTERMOTOR",
-                    "price": 225
-                },
-                {
-                    "value": 14,
-                    "label": "BYTE DÄCK-SLANG",
-                    "price": 150
-                },
-                {
-                    "value": 15,
-                    "label": "BYTE DÄMPAD GAFFEL",
-                    "price": 225
-                },
-                {
-                    "value": 16,
-                    "label": "BYTE DISPLAY",
-                    "price": 113
-                },
-                {
-                    "value": 17,
-                    "label": "BYTE EB-BUS KABEL FRAMHJULSMOTOR",
-                    "price": 187
-                },
-                {
-                    "value": 18,
-                    "label": "BYTE FÄLG",
-                    "price": 338
-                },
-                {
-                    "value": 19,
-                    "label": "BYTE FÄLGBROMS",
-                    "price": 113
-                },
-                {
-                    "value": 20,
-                    "label": "BYTE FAST KEDJESKYDD",
-                    "price": 113
-                },
-                {
-                    "value": 21,
-                    "label": "BYTE FAST KEDJESKYDD+FÄSTE VEVPARTI",
-                    "price": 188
-                },
-                {
-                    "value": 22,
-                    "label": "BYTE FASTMONTERAD BELYSNING BAK",
-                    "price": 75
-                },
-                {
-                    "value": 23,
-                    "label": "BYTE FASTMONTERAD BELYSNING FRAM",
-                    "price": 113
-                },
-                {
-                    "value": 24,
-                    "label": "BYTE FASTMONTERAD LÅS",
-                    "price": 75
-                },
-                {
-                    "value": 25,
-                    "label": "BYTE FRAMHJUL",
-                    "price": 113
-                },
-                {
-                    "value": 26,
-                    "label": "BYTE FRAMSKÄRM",
-                    "price": 150
-                },
-                {
-                    "value": 27,
-                    "label": "BYTE FRAMVÄXEL INKL. VXL JUSTERING",
-                    "price": 150
-                },
-                {
-                    "value": 28,
-                    "label": "BYTEprice",
-                    "price": 150
-                },
-                {
-                    "value": 29,
-                    "label": "BYTE HANDTAG",
-                    "price": 75
-                },
-                {
-                    "value": 30,
-                    "label": "BYTE HASTIGHETS SENSOR",
-                    "price": 113
-                },
-                {
-                    "value": 31,
-                    "label": "BYTE KASSETT issue:11 DELAD",
-                    "price": 150
-                },
-                {
-                    "value": 32,
-                    "label": "BYTE KEDJA",
-                    "price": 113
-                },
-                {
-                    "value": 33,
-                    "label": ",BYTEprice:3,7,8 VXL",
-                    "price": 188
-                },
-                {
-                    "value": 34,
-                    "label": "BYTE KONTROLLBOX CENTERMOTOR",
-                    "price": 150
-                },
-                {
-                    "value": 35,
-                    "label": "BYTE KONTROLLBOX PAKETHÅLLARE",
-                    "price": 150
-                },
-                {
-                    "value": 36,
-                    "label": "BYTE KONTROLLBOX RAMMONTERAD",
-                    "price": 150
-                },
-                {
-                    "value": 37,
-                    "label": "BYTE KOPPLINGSLAGER",
-                    "price": 188
-                },
-                {
-                    "value": 38,
-                    "label": "BYTE KORG",
-                    "price": 113
-                },
-                {
-                    "value": 39,
-                    "label": "BYTE KORGSTAG-FÄSTE",
-                    "price": 75
-                },
-                {
-                    "value": 40,
-                    "label": "BYTE LAS OCH LASKOLV  2 IN 1",
-                    "price": 150
-                },
-                {
-                    "value": 41,
-                    "label": "BYTE LASKOLV",
-                    "price": 113
-                },
-                {
-                    "value": 42,
-                    "label": "BYTE LAGER",
-                    "price": 225
-                },
-                {
-                    "value": 43,
-                    "label": "BYTE LÖS VEVARM",
-                    "price": 75
-                },
-                {
-                    "value": 44,
-                    "label": "BYTE MOTOR FRAMHJUL",
-                    "price": 188
-                },
-                {
-                    "value": 45,
-                    "label": "BYTE MOTORKABEL BAKHJULSMOTOR",
-                    "price": 150
-                },
-                {
-                    "value": 46,
-                    "label": "BYTE MOTORKABEL CENTERMOTOR",
-                    "price": 150
-                },
-                {
-                    "value": 47,
-                    "label": "BYTE MOTORKABEL FRAMHJULSMOTOR",
-                    "price": 150
-                },
-                {
-                    "value": 48,
-                    "label": "BYTE NAV",
-                    "price": 450
-                },
-                {
-                    "value": 49,
-                    "label": "BYTE PAKETHÅLLARE",
-                    "price": 113
-                },
-                {
-                    "value": 50,
-                    "label": "BYTE PAKETHALLARSTAG",
-                    "price": 75
-                },
-                {
-                    "value": 51,
-                    "label": "BYTE RAM",
-                    "price": 900
-                },
-                {
-                    "value": 52,
-                    "label": "BYTE RAMDEL  heldämpad",
-                    "price": 0
-                },
-                {
-                    "value": 53,
-                    "label": "BYTE REFLEXER OCH RINGKLOCKOR",
-                    "price": 75
-                },
-                {
-                    "value": 54,
-                    "label": "BYTE RULLBROMS",
-                    "price": 75
-                },
-                {
-                    "value": 55,
-                    "label": "BYTE SADEL",
-                    "price": 75
-                },
-                {
-                    "value": 56,
-                    "label": "BYTE SADELKLÄMMA",
-                    "price": 38
-                },
-                {
-                    "value": 57,
-                    "label": "BYTE SADELSTOLPE",
-                    "price": 113
-                },
-                {
-                    "value": 58,
-                    "label": "BYTE SKÄRMSTAG",
-                    "price": 113
-                },
-                {
-                    "value": 59,
-                    "label": "BYTE SKIVBROMS HYDRALISK",
-                    "price": 188
-                },
-                {
-                    "value": 60,
-                    "label": "BYTE SKIVBROMS MEKANISK",
-                    "price": 150
-                },
-                {
-                    "value": 61,
-                    "label": "BYTE STEL GAFFEL",
-                    "price": 225
-                },
-                {
-                    "value": 62,
-                    "label": "BYTE STYRE  INKL. MONT. REGL. & HANDTAG",
-                    "price": 188
-                },
-                {
-                    "value": 63,
-                    "label": "BYTE STYRLAGER KOMPLETT",
-                    "price": 113
-                },
-                {
-                    "value": 64,
-                    "label": "BYTE STYRLAGERDEL",
-                    "price": 75
-                },
-                {
-                    "value": 65,
-                    "label": "BYTE STYRSTAM",
-                    "price": 113
-                },
-                {
-                    "value": 66,
-                    "label": "BYTE STÖD",
-                    "price": 75
-                },
-                {
-                    "value": 67,
-                    "label": "BYTE VÄXELREGLAGE",
-                    "price": 150
-                },
-                {
-                    "value": 68,
-                    "label": "BYTE VÄXELVAJER",
-                    "price": 113
-                },
-                {
-                    "value": 69,
-                    "label": "BYTE VÄXELÖRA",
-                    "price": 150
-                },
-                {
-                    "value": 70,
-                    "label": "BYTE VEVLAGER",
-                    "price": 263
-                },
-                {
-                    "value": 71,
-                    "label": "BYTE VEVLAGERSENSOR",
-                    "price": 225
-                },
-                {
-                    "value": 72,
-                    "label": "BYTE VEVPARTI",
-                    "price": 150
-                },
-                {
-                    "value": 73,
-                    "label": "FELSÖKNING",
-                    "price": 113
-                },
-                {
-                    "value": 74,
-                    "label": "LUFTA SKIVBROMS HYDRALISK",
-                    "price": 113
-                },
-                {
-                    "value": 75,
-                    "label": "RIKTA HJUL-BYTE EKER",
-                    "price": 75
-                },
-                {
-                    "value": 76,
-                    "label": "BYTE FRIHJULSBODY",
-                    "price": 225
-                },
-                {
-                    "value": 77,
-                    "label": "FELSÖKNING MJUKVARA CRESCENT 2020-2021",
-                    "price": 225
-                },
-                {
-                    "value": 78,
-                    "label": "LASA-LASA UPP BATTERI FÖRBÄTTRAD LADDNINGSFUNKTION INGEN ERSÄTTNING KNYTT-BYTE FRAMGAFFEL",
-                    "price": 75
-                }
-            ],
-            "serii_no": "223232"
+        {
+          "value": 1,
+          "label": "BYTE BAKHJUL",
+          "price": 135
+        },
+        {
+          "value": 2,
+          "label": "BYTE BAKHJULSMOTOR",
+          "price": 188
+        },
+        {
+          "value": 3,
+          "label": "BYTE BAKSKÄRM",
+          "price": 150
+        },
+        {
+          "value": 4,
+          "label": "BYTE BAKVÄXEL  INKL. VXL JUSTERING",
+          "price": 150
+        },
+        {
+          "value": 5,
+          "label": "BYTE BATTERI",
+          "price": 38
+        },
+        {
+          "value": 6,
+          "label": "BYTE BATTERIBELYSNING",
+          "price": 75
+        },
+        {
+          "value": 7,
+          "label": "BYTE BATTERIHÅLLARE, PAKETHÅLLARE",
+          "price": 150
+        },
+        {
+          "value": 8,
+          "label": "BYTE BATTERIHÅLLARE, RAM",
+          "price": 225
+        },
+        {
+          "value": 9,
+          "label": "BYTE BELYSNINGSKABEL",
+          "price": 113
+        },
+        {
+          "value": 10,
+          "label": "BYTE BROMS SENSOR",
+          "price": 113
+        },
+        {
+          "value": 11,
+          "label": "BYTE BROMSHANDTAG",
+          "price": 113
+        },
+        {
+          "value": 12,
+          "label": "BYTE BROMSKLOSSAR",
+          "price": 113
+        },
+        {
+          "value": 13,
+          "label": "BYTE CENTERMOTOR",
+          "price": 225
+        },
+        {
+          "value": 14,
+          "label": "BYTE DÄCK-SLANG",
+          "price": 150
+        },
+        {
+          "value": 15,
+          "label": "BYTE DÄMPAD GAFFEL",
+          "price": 225
+        },
+        {
+          "value": 16,
+          "label": "BYTE DISPLAY",
+          "price": 113
+        },
+        {
+          "value": 17,
+          "label": "BYTE EB-BUS KABEL FRAMHJULSMOTOR",
+          "price": 187
+        },
+        {
+          "value": 18,
+          "label": "BYTE FÄLG",
+          "price": 338
+        },
+        {
+          "value": 19,
+          "label": "BYTE FÄLGBROMS",
+          "price": 113
+        },
+        {
+          "value": 20,
+          "label": "BYTE FAST KEDJESKYDD",
+          "price": 113
+        },
+        {
+          "value": 21,
+          "label": "BYTE FAST KEDJESKYDD+FÄSTE VEVPARTI",
+          "price": 188
+        },
+        {
+          "value": 22,
+          "label": "BYTE FASTMONTERAD BELYSNING BAK",
+          "price": 75
+        },
+        {
+          "value": 23,
+          "label": "BYTE FASTMONTERAD BELYSNING FRAM",
+          "price": 113
+        },
+        {
+          "value": 24,
+          "label": "BYTE FASTMONTERAD LÅS",
+          "price": 75
+        },
+        {
+          "value": 25,
+          "label": "BYTE FRAMHJUL",
+          "price": 113
+        },
+        {
+          "value": 26,
+          "label": "BYTE FRAMSKÄRM",
+          "price": 150
+        },
+        {
+          "value": 27,
+          "label": "BYTE FRAMVÄXEL INKL. VXL JUSTERING",
+          "price": 150
+        },
+        {
+          "value": 28,
+          "label": "BYTEprice",
+          "price": 150
+        },
+        {
+          "value": 29,
+          "label": "BYTE HANDTAG",
+          "price": 75
+        },
+        {
+          "value": 30,
+          "label": "BYTE HASTIGHETS SENSOR",
+          "price": 113
+        },
+        {
+          "value": 31,
+          "label": "BYTE KASSETT issue:11 DELAD",
+          "price": 150
+        },
+        {
+          "value": 32,
+          "label": "BYTE KEDJA",
+          "price": 113
+        },
+        {
+          "value": 33,
+          "label": ",BYTEprice:3,7,8 VXL",
+          "price": 188
+        },
+        {
+          "value": 34,
+          "label": "BYTE KONTROLLBOX CENTERMOTOR",
+          "price": 150
+        },
+        {
+          "value": 35,
+          "label": "BYTE KONTROLLBOX PAKETHÅLLARE",
+          "price": 150
+        },
+        {
+          "value": 36,
+          "label": "BYTE KONTROLLBOX RAMMONTERAD",
+          "price": 150
+        },
+        {
+          "value": 37,
+          "label": "BYTE KOPPLINGSLAGER",
+          "price": 188
+        },
+        {
+          "value": 38,
+          "label": "BYTE KORG",
+          "price": 113
+        },
+        {
+          "value": 39,
+          "label": "BYTE KORGSTAG-FÄSTE",
+          "price": 75
+        },
+        {
+          "value": 40,
+          "label": "BYTE LAS OCH LASKOLV  2 IN 1",
+          "price": 150
+        },
+        {
+          "value": 41,
+          "label": "BYTE LASKOLV",
+          "price": 113
+        },
+        {
+          "value": 42,
+          "label": "BYTE LAGER",
+          "price": 225
+        },
+        {
+          "value": 43,
+          "label": "BYTE LÖS VEVARM",
+          "price": 75
+        },
+        {
+          "value": 44,
+          "label": "BYTE MOTOR FRAMHJUL",
+          "price": 188
+        },
+        {
+          "value": 45,
+          "label": "BYTE MOTORKABEL BAKHJULSMOTOR",
+          "price": 150
+        },
+        {
+          "value": 46,
+          "label": "BYTE MOTORKABEL CENTERMOTOR",
+          "price": 150
+        },
+        {
+          "value": 47,
+          "label": "BYTE MOTORKABEL FRAMHJULSMOTOR",
+          "price": 150
+        },
+        {
+          "value": 48,
+          "label": "BYTE NAV",
+          "price": 450
+        },
+        {
+          "value": 49,
+          "label": "BYTE PAKETHÅLLARE",
+          "price": 113
+        },
+        {
+          "value": 50,
+          "label": "BYTE PAKETHALLARSTAG",
+          "price": 75
+        },
+        {
+          "value": 51,
+          "label": "BYTE RAM",
+          "price": 900
+        },
+        {
+          "value": 52,
+          "label": "BYTE RAMDEL  heldämpad",
+          "price": 1450
+        },
+        {
+          "value": 53,
+          "label": "BYTE REFLEXER OCH RINGKLOCKOR",
+          "price": 75
+        },
+        {
+          "value": 54,
+          "label": "BYTE RULLBROMS",
+          "price": 75
+        },
+        {
+          "value": 55,
+          "label": "BYTE SADEL",
+          "price": 75
+        },
+        {
+          "value": 56,
+          "label": "BYTE SADELKLÄMMA",
+          "price": 38
+        },
+        {
+          "value": 57,
+          "label": "BYTE SADELSTOLPE",
+          "price": 113
+        },
+        {
+          "value": 58,
+          "label": "BYTE SKÄRMSTAG",
+          "price": 113
+        },
+        {
+          "value": 59,
+          "label": "BYTE SKIVBROMS HYDRALISK",
+          "price": 188
+        },
+        {
+          "value": 60,
+          "label": "BYTE SKIVBROMS MEKANISK",
+          "price": 150
+        },
+        {
+          "value": 61,
+          "label": "BYTE STEL GAFFEL",
+          "price": 225
+        },
+        {
+          "value": 62,
+          "label": "BYTE STYRE  INKL. MONT. REGL. & HANDTAG",
+          "price": 188
+        },
+        {
+          "value": 63,
+          "label": "BYTE STYRLAGER KOMPLETT",
+          "price": 113
+        },
+        {
+          "value": 64,
+          "label": "BYTE STYRLAGERDEL",
+          "price": 75
+        },
+        {
+          "value": 65,
+          "label": "BYTE STYRSTAM",
+          "price": 113
+        },
+        {
+          "value": 66,
+          "label": "BYTE STÖD",
+          "price": 75
+        },
+        {
+          "value": 67,
+          "label": "BYTE VÄXELREGLAGE",
+          "price": 150
+        },
+        {
+          "value": 68,
+          "label": "BYTE VÄXELVAJER",
+          "price": 113
+        },
+        {
+          "value": 69,
+          "label": "BYTE VÄXELÖRA",
+          "price": 150
+        },
+        {
+          "value": 70,
+          "label": "BYTE VEVLAGER",
+          "price": 263
+        },
+        {
+          "value": 71,
+          "label": "BYTE VEVLAGERSENSOR",
+          "price": 225
+        },
+        {
+          "value": 72,
+          "label": "BYTE VEVPARTI",
+          "price": 150
+        },
+        {
+          "value": 73,
+          "label": "FELSÖKNING",
+          "price": 113
+        },
+        {
+          "value": 74,
+          "label": "LUFTA SKIVBROMS HYDRALISK",
+          "price": 113
+        },
+        {
+          "value": 75,
+          "label": "RIKTA HJUL-BYTE EKER",
+          "price": 75
+        },
+        {
+          "value": 76,
+          "label": "BYTE FRIHJULSBODY",
+          "price": 225
+        },
+        {
+          "value": 77,
+          "label": "FELSÖKNING MJUKVARA CRESCENT 2020-2021",
+          "price": 225
+        },
+        {
+          "value": 78,
+          "label": "LASA-LASA UPP BATTERI FÖRBÄTTRAD LADDNINGSFUNKTION INGEN ERSÄTTNING KNYTT-BYTE FRAMGAFFEL",
+          "price": 75
         }
+      ],
+      "serii_no": "223232"
     }
+  }
 ]
