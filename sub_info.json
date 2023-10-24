@@ -4,7 +4,7 @@
             "test": "test"
         },
         "bike": {
-            "value": 0,
+            "value": 01313131,
             "label": "My Bike Name",
             "category": "EL CYKEL",
             "issues": [
